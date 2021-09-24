@@ -14,3 +14,8 @@ iOS 개발자로 취업할때 알아야할 모든것
 |:--:|:--|
 |8/22|[Bounds와 Frame의 차이점을 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/2)
 |8/29|[URLSession에 대해서 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/3)|
+
+### ARC
+|날짜|질문|
+|:--:|:--|
+|9/26|[ARC란 무엇인지 설명하시오. ](https://github.com/SwiftFrequency/iOSInterview/issues/7)|
