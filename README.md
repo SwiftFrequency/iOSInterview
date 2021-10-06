@@ -8,6 +8,8 @@ iOS 개발자로 취업할때 알아야할 모든것
 |8/29|[Struct와 Class와 Enum의 차이를 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/4)
 |9/5|[Swift Standard Library의 map, filter, reduce, compactMap, flatMap에 대하여 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/5)|
 |9/5|[탈출 클로저에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/6)|
+|10/10|[Result타입에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/12)|
+|10/10|[Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/13)|
 
 ### iOS
 |날짜|질문|
