@@ -17,6 +17,8 @@ __iOS 개발자로 취업할때 알아야할 모든것__
 |8/22|[Bounds와 Frame의 차이점을 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/2)
 |8/29|[URLSession에 대해서 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/3)|
 |10/17|[UIWindow 객체의 역할은 무엇인가?](https://github.com/SwiftFrequency/iOSInterview/issues/14)|
+|10/24|[View 객체에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/15)|
+|10/24|[UIView에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/16)|
 
 ### <span style='background-color: #dcffe4'>✅ ARC</span>
 |날짜|질문|
