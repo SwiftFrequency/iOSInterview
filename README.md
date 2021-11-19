@@ -19,6 +19,13 @@ __iOS 개발자로 취업할때 알아야할 모든것__
 |10/17|[UIWindow 객체의 역할은 무엇인가?](https://github.com/SwiftFrequency/iOSInterview/issues/14)|
 |10/24|[View 객체에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/15)|
 |10/24|[UIView에서 Layer 객체는 무엇이고 어떤 역할을 담당하는지 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/16)|
+|10/31|[SafeArea에 대해서 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/17)|
+|10/31|[Intrinsic Size에 대해서 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/18)|
+|11/14|[App Bundle의 구조와 역할에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/19)|
+|11/14|[GCD API 동작 방식과 필요성에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/20)|
+|11/21|[Global DispatchQueue의 Qos에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/21)|
+|11/21|[Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/22)|
+
 
 ### <span style='background-color: #dcffe4'>✅ ARC</span>
 |날짜|질문|
