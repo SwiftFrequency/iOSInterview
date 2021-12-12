@@ -10,6 +10,9 @@ __iOS 개발자로 취업할때 알아야할 모든것__
 |9/5|[탈출 클로저에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/6)|
 |10/10|[Result타입에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/12)|
 |10/10|[Singleton 패턴을 활용하는 경우를 예를 들어 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/13)|
+|12/12|[Generic에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/23)|
+|12/12|[Convenience init에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/24)|
+|12/19|[Hashable이 무엇이고, Equatable을 왜 상속해야 하는지 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/26)|
 
 ### <span style='background-color: #dcffe4'>✅ iOS</span>
 |날짜|질문|
@@ -25,6 +28,7 @@ __iOS 개발자로 취업할때 알아야할 모든것__
 |11/14|[GCD API 동작 방식과 필요성에 대해 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/20)|
 |11/21|[Global DispatchQueue의 Qos에는 어떤 종류가 있는지, 각각 어떤 의미인지 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/21)|
 |11/21|[Foundation Kit은 무엇이고 포함되어 있는 클래스들은 어떤 것이 있는지 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/22)|
+|12/19|[prepareForReuse에 대해서 설명하시오.](https://github.com/SwiftFrequency/iOSInterview/issues/25)|
 
 
 ### <span style='background-color: #dcffe4'>✅ ARC</span>
